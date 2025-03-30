@@ -91,7 +91,7 @@ Once complete, SSLForge will:
 ## 👨‍💻 Author
 
 **Dean Cohen**  
-✈️ Aviation Mechanic turned Cybersecurity Enthusiast  
+✈️ Cybersecurity Enthusiast  
 🛡️ Red Team | Web Attacks | Scripting  
 🔧 Built this to combine my love for automation & offensive security
 
