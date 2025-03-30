@@ -97,7 +97,7 @@ function INPUT()
 	read -p $'\033[1;33m State/Province: \033[0m' STATE
 	read -p $'\033[1;33m City: \033[0m' CITY
 	read -p $'\033[1;33m Organization: \033[0m' ORG
-	read -p $'\033[1;33m Common Name (e.g. localhost): \033[0m' CN
+	read -p $'\033[1;33m Common Name : \033[0m' CN
 	read -p $'\033[1;33m Email Address: \033[0m' EMAIL
 	read -p $'\033[1;33m Server IP: \033[0m' IP
 
